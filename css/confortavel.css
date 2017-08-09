@@ -1,6 +1,6 @@
 body {
      background-color: #82463B;
-	 background-image:url('img/camiseta.png');
+	 background-image:url('../img/camiseta.png');
 	 background-blend-mode: overlay;
 
      -webkit-animation: random 5s infinite;
