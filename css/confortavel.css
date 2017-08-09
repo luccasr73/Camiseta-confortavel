@@ -1,0 +1,26 @@
+body {
+     background-color: #82463B;
+	 background-image:url('img/camiseta.png');
+	 background-blend-mode: overlay;
+
+     -webkit-animation: random 5s infinite;
+     animation: random 5s infinite;
+}
+@keyframes  random {
+    15% { background-color:#CEB8A1; } 
+    30% { background-color: #3F8881; } 
+    45% { background-color: #123644; } 
+    60% { background-color: #D84D3C; }
+    75% { background-color: #EF806C; }  
+	
+}
+svg{
+height:50vh;
+}
+div{
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
