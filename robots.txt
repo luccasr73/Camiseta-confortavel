@@ -1,5 +1,5 @@
 User-Agent: *
-Disallow: 
+ 
 Allow: /index.html
 Allow: http://camisetaconfortavel.cf/
 Allow: http://camisetaconfortavel.cf/index.html	
