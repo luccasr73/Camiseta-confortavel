@@ -24,7 +24,7 @@ div{
     transform: translate(-50%, -50%);
     position: absolute;
 }
-h1{
+h1, h2{
 	display:none; 
 }
 .hide{
