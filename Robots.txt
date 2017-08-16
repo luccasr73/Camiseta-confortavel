@@ -2,4 +2,4 @@ User-Agent: *
 Disallow: 
 Allow: /index.html
 
-Sitemap: http://camisetaconfortavel.cf/sitemap.xml 
+Sitemap: http://camisetaconfortavel.cf/sitemap.xml
